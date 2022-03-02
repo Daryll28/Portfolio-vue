@@ -22,7 +22,7 @@
           <a class="nav-link active" style="color:white" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" style="color:white" href="/about">About</a>
+          <router-link class="nav-link" style="color:white" to="/about">About</router-link>
         </li>
         <li class="nav-item">
           <a class="nav-link" style="color:white" href="/resume">Resume</a>
