@@ -252,6 +252,9 @@ h5{
   .pic{
 	  width: auto !important;
   }
+  *{
+	  overflow: hidden !important;
+  }
 }
 
 @media screen and (max-width: 820px){
