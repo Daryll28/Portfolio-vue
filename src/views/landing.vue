@@ -137,7 +137,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 .pic{
   padding: 0;
   margin-top: 110px !important;
-  
+  width: min-content;
 
 }
 
