@@ -5,7 +5,7 @@
   <router-link  to="/about"> About <i class="bi bi-info-circle"></i> </router-link> 
     <router-link to="/resume">Resume <i class="bi bi-file-person"></i></router-link> 
        <router-link to="/projects">Projects <i class="bi bi-kanban"></i></router-link> 
-       <router-link to="/Testimonial">Testimonial <i class="bi bi-people-fill"></i></router-link> 
+       <router-link to="/Testimonial">Testimonials <i class="bi bi-people-fill"></i></router-link> 
        <router-link to="/contact">Contact <i class="bi bi-person-rolodex"></i></router-link> 
 </div>
 

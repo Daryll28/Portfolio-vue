@@ -308,6 +308,7 @@ input[type="checkbox"]{
     top: 2px;
     color: blue;
 }
+
 .pill{
     display: inline-block;
     margin: 20px 10px 0 0;

@@ -96,7 +96,7 @@ Projects
 
 <div class="row" id="timeline" style="justify-content: center;">
 
-<div class="col-md-6 col-sm-12">
+<div class="col-md-4 col-sm-12">
 
 <!-- <div class="card" style="width: 18rem">
 <img src="../assets/Images/ecommerce.png" class="card-img-top" alt="...">
@@ -126,7 +126,7 @@ Projects
 			</div>
 	</div>
 </div>
-<div class="col-md-6 col-sm-12">
+<div class="col-md-4 col-sm-12">
 <!-- <div class="card" style="width: 18rem">
 <img src="../assets/Images/reaction_timer.png" class="card-img-top" alt="...">
 <div class="card-body">

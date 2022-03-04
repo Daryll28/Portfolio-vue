@@ -49,7 +49,7 @@
 <div class="col-md-3 col-sm-12 fol">
 
 <div class="card" style="width: 18rem;  background-color:transparent; ">
-<img src="../assets/images/Reese4.jpeg" style="height:18rem !important" class="card-img-top picture" alt="...">
+<img src="../assets/images/Reese4.jpeg" style="height:19rem !important" class="card-img-top picture" alt="...">
 <div class="card-body">
 <h5 class="card-title">Resse Abrahams</h5>
 <p class="card-text">Daryll is a very creative developer, through his career, he has displayed a "work-hard" attitude and is extremely hard-working. He always strives his best and is a perfectionist that always strives to deliver his tasks and get work done</p>
@@ -161,6 +161,12 @@ h1{
   }
   .card{
     width: auto !important;
+  }
+}
+
+@media (max-width: 400px){  
+  .card{
+    width:auto ;
   }
 }
 
