@@ -4,7 +4,7 @@
 
 <div class="container" style=" color: white">
 
-<h1 >Testimonial</h1>
+<h1 class="testimo">Testimonial</h1>
 
 
                                   
@@ -150,11 +150,14 @@ h1{
   padding-right:130px; 
 }
 
-@media (max-width: 340px){
+@media (max-width: 375px){
   .container{
     padding: 0 !important;
     margin: 0 !important;
     width: 100%;
+  }
+  .testimo{
+    padding: 0;
   }
   .picture{
     width: 75%;
@@ -172,12 +175,16 @@ h1{
 
 @media (max-width: 770px){
   .container{
+    
   }
   .picture{
     width: 100%;
   }
   .card{
     padding: 0% !important;
+  }
+    .testimo{
+    padding: 0;
   }
 
 }
