@@ -150,7 +150,7 @@ h1{
   padding-right:130px; 
 }
 
-@media (max-width: 375px){
+@media (max-width: 385px){
   .container{
     padding: 0 !important;
     margin: 0 !important;
@@ -185,7 +185,7 @@ h1{
   }
     .testimo{
     padding: 0;
-  }
+  } 
 
 }
 

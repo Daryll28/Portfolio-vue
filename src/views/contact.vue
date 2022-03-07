@@ -22,13 +22,11 @@
     <option value="developer"> Web Developer</option>
         <option value="designer"> Web Desinger</option>
         <option value="recruitment">Recruitment</option>
-                <option value="just_to_get_in_touch">Just to get in touch</option>
+                <option value="just_to_get_in_touch">get in touch</option>
 
 
 </select>
-                        <!-- checkbox -->
 
-                            <!-- submit button -->
 <div class="submit">
     <button>Submit</button>
 </div>
