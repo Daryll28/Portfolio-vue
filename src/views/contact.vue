@@ -15,7 +15,7 @@
 
 
  <label>Message:</label>
-<input type="message" required v-model="message">  
+<input type="message" name="message" required v-model="message">  
 
 
 <label>Role//Reason:</label>
