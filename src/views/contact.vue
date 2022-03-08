@@ -8,7 +8,8 @@
 <div class=col-lg-6 col-md-12 col-sm-12>
 
 
-    <form @submit.prevent="handleSubmit">
+    <form   action="https://formspree.io/f/xyyojowe"
+  method="POST">
       <label>Email:</label>
 <input type="email" name="_replyto" required v-model="email">  
 
@@ -63,33 +64,22 @@ components: {
 data(){
     return{
 email: '',
-password: '',
+message: '',
 role: '',
 terms: 'false',
-names: [],
-tempSkill: '',
-Skills: [],
-passwordError: ''
-    }
+    };
 },
 methods: {
-handleSubmit(e) {
+handleSubmit() {
+        fetch('')
 //validate password
 this.passwordError = this.password.length > 5 ? 
 '' : 'Password must be atleast 6 chars long'
 if(!this.passwordError) {
 console.log('email:', this.email)
 console.log('password:', this.password)
-console.log('role:', this.role)
-
-
-
-}
-}
-}
-
-
-}
+console.log('role:', this.role)}
+}}}
 
 </script>
 
